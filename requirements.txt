@@ -1,0 +1,5 @@
+pymc==5.23.0
+numpy==2.3.2
+matplotlib
+arviz
+pandas
